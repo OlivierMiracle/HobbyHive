@@ -1,0 +1,6 @@
+@HobbyHive_HostAddress = http://localhost:5001
+
+GET {{HobbyHive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
